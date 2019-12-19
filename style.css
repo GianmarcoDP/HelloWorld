@@ -53,7 +53,9 @@ width:fit-content;
 padding-left:110px;
 padding-right:120px;
 float:left;
-margin-top:5%;
+margin-top:10%;
+margin-left:10px;
+margin-right:10px;
 }
 div#name p{
 font-size: 150px;
@@ -83,7 +85,7 @@ float:left;
 margin:0;
 }
 #title{
-margin:0;
+margin-left:20px;
 font-size:80px;
 color:#f77f00;
 font-family: 'Work Sans', sans-serif;
@@ -94,7 +96,7 @@ float: inherit;
 height:500px;
 width:50%;
 background:url(https://media.discordapp.net/attachments/641744666584154166/654399338696409111/croppedimg.jpg?width=600&height=332) no-repeat;
-margin: 0;
+margin-left:20px;
 padding:0;
 }
 #stuff{
@@ -102,9 +104,9 @@ height:500px;
 width:45%;
 float: inherit;
 font-family:  'Source Sans Pro', sans-serif;
-font-size:30px;
+font-size:35px;
 color:#f77f00;
-padding-left: 15px;
+padding-left:0px;
 margin: 0;
 }
 #skills{
@@ -114,13 +116,13 @@ height: 400px;
 background: #003049;
 }
 #skill{
-margin-left: 28%;
+margin-left: 34%;
 }
 #skillt{
 font-family: 'Vollkorn', serif;
 color:#598392;
 font-size:65px;
-margin-left: 16%;
+margin-left: 14%;
 }
 #css3{
 background: url(https://media.discordapp.net/attachments/641039424448233482/656218291303481346/CSS3_logo_and_wordmark.svg.png?width=320&height=451) no-repeat;
