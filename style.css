@@ -92,7 +92,7 @@ font-family: 'Work Sans', sans-serif;
 font-weight:bold;
 }
 #sunset{
-float: inherit;
+float: left;
 height:500px;
 width:50%;
 background:url(https://media.discordapp.net/attachments/641744666584154166/654399338696409111/croppedimg.jpg?width=600&height=332) no-repeat;
@@ -102,7 +102,7 @@ padding:0;
 #stuff{
 height:500px;
 width:45%;
-float: inherit;
+float: left;
 font-family:  'Source Sans Pro', sans-serif;
 font-size:35px;
 color:#f77f00;
