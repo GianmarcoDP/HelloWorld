@@ -45,7 +45,6 @@ background:url(https://media.discordapp.net/attachments/641039424448233482/64751
 margin:0;
 background-attachment: fixed;
 background-position: center;
-background-repeat: no-repeat;
 background-size: cover;
 }
 .name{
@@ -174,7 +173,7 @@ float:left;
  height:400px;
  margin:10px;
 }
-div#happened p{
+#happened p{
 color:#f65901;
 font-family: 'Source Sans Pro', sans-serif;
 font-size:30px;
